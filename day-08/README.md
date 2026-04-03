@@ -1,5 +1,7 @@
 # Day-8: Private App on Custom VPC + Regional External HTTP(S) Load Balancer + Custom Domain (GoDaddy + Cloud DNS)
 
+<img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/14622bad-c9aa-44e1-92e4-fe341a35814a" />
+
 ## Pre-requisites
 
 - A Google Cloud project with billing enabled
