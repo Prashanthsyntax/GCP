@@ -26,7 +26,7 @@ Think of a VPC like:
 
 ## 📦 Core Components
 
-### 1️⃣ VPC = Isolated Network (CIDR)
+### 1️⃣ VPC = Isolated Network (CIDR - Classless Inter-Domain Routing)
 
 Defined using CIDR range  
 Example:
