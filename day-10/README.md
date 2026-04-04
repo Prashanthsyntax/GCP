@@ -1,6 +1,6 @@
 # day-10
 
-databases
+Databases
 
 1. Relational DB - MySQL, PostgreSQL
 2. Non - Relational DB - MongoDB, DynamoDB
